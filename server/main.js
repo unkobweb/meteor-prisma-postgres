@@ -1,3 +1,4 @@
+import '/imports/api/tasks.js';
 import { Meteor } from 'meteor/meteor';
 import { LinksCollection } from '/imports/api/links';
 
